@@ -1,4 +1,4 @@
-# Assembly_nasm_lab
+# assembly-nasm-lab
 这是一个基于nasm在ubuntu上实现的汇编大作业，大作业一共有三个，分别为：
 * loop: 一个四重循环的程序
 * compare_text: 比较两个文本的不同行，在ubuntu虚拟机中可以运行window.py
